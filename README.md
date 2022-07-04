@@ -4,3 +4,5 @@
 
 ## 一、数组
 [1. 数组理论基础](./Array/FundamentalsOfArrayTheory.md)
+
+[2. 二分查找](./Array/BinarySearch.md)
