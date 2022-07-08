@@ -6,3 +6,5 @@
 [1. 数组理论基础](./Array/FundamentalsOfArrayTheory.md)
 
 [2. 二分查找](./Array/BinarySearch.md)
+
+[3. 移除元素](./Array/RemovingElements.md)
